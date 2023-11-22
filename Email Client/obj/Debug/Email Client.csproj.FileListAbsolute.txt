@@ -1,0 +1,8 @@
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\bin\Debug\Email Client.exe.config
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\bin\Debug\Email Client.exe
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\bin\Debug\Email Client.pdb
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\obj\Debug\Email_Client.EmailClient.resources
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\obj\Debug\Email_Client.Properties.Resources.resources
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\obj\Debug\Email Client.csproj.GenerateResource.Cache
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\obj\Debug\Email Client.exe
+C:\Users\AK\Desktop\Email_Client\Email Client\Email Client\obj\Debug\Email Client.pdb
